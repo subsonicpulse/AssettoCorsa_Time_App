@@ -3,4 +3,4 @@ Time App for Assetto Corsa
 
 Copy to:
 
-<SteamLibrary>\steamapps\common\assettocorsa\apps\python
+`<SteamLibrary>\steamapps\common\assettocorsa\apps\python`
