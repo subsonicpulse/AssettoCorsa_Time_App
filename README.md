@@ -1,4 +1,4 @@
-# AssettoCorsa App: WhatTimeIsIt
+# AssettoCorsa Clock App: WhatTimeIsIt
 
 Time App for Assetto Corsa to see a clock in-game.
 
