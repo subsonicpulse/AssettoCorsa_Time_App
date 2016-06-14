@@ -2,7 +2,8 @@
 
 Time App for Assetto Corsa to see a clock in-game.
 
-Copy folder to:
+Copy folder `WhatTimeIsIt` to:
 `<SteamLibrary>\steamapps\common\assettocorsa\apps\python`
 
 Screenshot:
+
