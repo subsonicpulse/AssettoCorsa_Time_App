@@ -7,3 +7,5 @@ Copy folder `WhatTimeIsIt` to:
 
 Screenshot:
 
+![time app](/screenshot.jpg)
+
